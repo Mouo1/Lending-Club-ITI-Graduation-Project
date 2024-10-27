@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="ASHRAFMOHAMED.Lending_Club_DWH"
+  DTS:DTSID="{86B88350-6BA5-461C-9BF5-43555342EE46}"
+  DTS:CreationName="ADO">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=ASHRAFMOHAMED;Initial Catalog=Lending_Club_DWH;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-LendingClub_DWH_ETL_SSIS-{86B88350-6BA5-461C-9BF5-43555342EE46}ASHRAFMOHAMED.Lending_Club_DWH;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
