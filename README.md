@@ -29,9 +29,9 @@ The standard loan period is three years. Investors can search and browse the loa
 
 ## Creating Data Warehouse using SSIS
 
-![DWH SSIS](<LendingClub_DWH_ETL_SSIS\run ScreenShoot/Application Dim.PNG>)
-![DWH SSIS](<LendingClub_DWH_ETL_SSIS\run ScreenShoot/Borrower Dim.PNG>)
-![DWH SSIS](<LendingClub_DWH_ETL_SSIS\run ScreenShoot/Loan Fact.PNG>)
+![DWH SSIS](<LendingClub_DWH_ETL_SSIS\SC/Application Dim.PNG>)
+![DWH SSIS](<LendingClub_DWH_ETL_SSIS\SC/Borrower Dim.PNG>)
+![DWH SSIS](<LendingClub_DWH_ETL_SSIS\SC/Loan Fact.PNG>)
 
 ## Data Warehouse Diagram
 
@@ -54,9 +54,9 @@ The standard loan period is three years. Investors can search and browse the loa
 # Data Visualization
 ## Using Power Bi
 
-![Dashboard](<power bi/1.PNG>)
-![Dashboard](<power bi/2.PNG>)
-![Dashboard](<power bi/3.PNG>)
+![Dashboard](<Powerbi/1.PNG>)
+![Dashboard](<PowerBi/2.PNG>)
+![Dashboard](<PowerBi/3.PNG>)
 
 ## Using Tableau
 
